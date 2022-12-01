@@ -111,6 +111,7 @@ h1 {
 
 h1 > span {
   color: var(--yellow);
+  display: inline-block;
 }
 
 #welcome-section > p {
